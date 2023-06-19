@@ -1,1 +1,4 @@
 # DATA-QUALITY-ISSUES
+1.Incomplete data—for example, a spreadsheet with missing values that would be relevant for your analysis. If you’re looking at the relationship between customer age and number of monthly purchases, you’ll need data for both of these variables. If some customer ages are missing, you’re dealing with incomplete data.
+2.Duplicate data—for example, records that appear twice (or multiple times) throughout the same dataset. This can occur if you’re combining data from multiple sources or databases.
+3.Inconsistent or inaccurate data—data that is outdated or contains structural errors such as typos, inconsistent capitalization, and irregular naming conventions. Say you have a dataset containing student test scores, with some categorized as “Pass” or “Fail” and others categorized as “P” or “F.” Both labels mean the same thing, but the naming convention is inconsistent, leaving the data rather messy.
